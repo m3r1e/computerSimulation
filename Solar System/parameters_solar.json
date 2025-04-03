@@ -1,0 +1,62 @@
+{
+    "num_iterations": 240000,
+    "timestep": 0.001,
+    "grav_const": 1.18638e-4,
+    "bodies":
+    [
+	{
+	    "name": "sun",
+	    "mass": 332946.0,
+	    "orbital_radius": 0.0,
+	    "colour": "#ffcc33"
+	},
+	{
+	    "name": "mercury",
+	    "mass": 0.06,
+	    "orbital_radius": 0.387,
+	    "colour": "#b7b8b9"
+	},
+	{
+	    "name": "venus",
+	    "mass": 0.82,
+	    "orbital_radius": 0.723,
+	    "colour": "#f8e2b0"
+	},
+	{
+	    "name": "earth",
+	    "mass": 1.0,
+	    "orbital_radius": 1.0,
+	    "colour": "#9fc164"
+	},
+	{
+	    "name": "mars",
+	    "mass": 0.11,
+	    "orbital_radius": 1.524,
+	    "colour": "#9c003f"
+	},
+	{
+	    "name": "jupiter",
+	    "mass": 318,
+	    "orbital_radius": 5.2,
+	    "colour": "#c17d6b"
+	},
+	{
+	    "name": "saturn",
+	    "mass": 95,
+	    "orbital_radius": 9.5,
+	    "colour": "#f9a9a9"
+	},
+	{
+	    "name": "uranus",
+	    "mass": 14,
+	    "orbital_radius": 19.2,
+	    "colour": "#2e84ce"
+	},
+	{
+	    "name": "neptune",
+	    "mass": 17,
+	    "orbital_radius": 30.1,
+	    "colour": "#1f2255"
+	}
+    ]
+}
